@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{89AC51CA-BF28-4DFF-8E1D-2C42A01294A2}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ShellTest/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShellTest/Pages/FirstPage.xaml.cs">
     <Files>
       <File FileName="ShellTest/App.xaml" Line="5" Column="15" />
-      <File FileName="ShellTest/Pages/FirstPage.xaml" Line="4" Column="33" />
-      <File FileName="ShellTest/Pages/FirstPage.xaml.cs" Line="12" Column="1" />
-      <File FileName="ShellTest/MainPage.xaml" Line="13" Column="17" />
-      <File FileName="ShellTest/App.xaml.cs" Line="14" Column="42" />
+      <File FileName="ShellTest/Pages/FirstPage.xaml" Line="12" Column="23" />
+      <File FileName="ShellTest/Pages/FirstPage.xaml.cs" Line="17" Column="1" />
+      <File FileName="ShellTest/MainPage.xaml" Line="12" Column="36" />
+      <File FileName="ShellTest/App.xaml.cs" Line="15" Column="12" />
+      <File FileName="ShellTest/MainPage.xaml.cs" Line="13" Column="1" />
+      <File FileName="ShellTest/ViewModels/FirstPageModel.cs" Line="9" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
@@ -15,5 +17,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ShellTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EF19A64D-E664-4C2D-AC5A-1A9A99762943" />
+  <MonoDevelop.Ide.ItemProperties.ShellTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1DC0B914-B1CC-4C0D-AAD3-867CA3BBB3C8" />
 </Properties>

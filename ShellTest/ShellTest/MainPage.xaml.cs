@@ -10,6 +10,7 @@ namespace ShellTest
         public MainPage()
         {
             InitializeComponent();
+
         }
     }
 }

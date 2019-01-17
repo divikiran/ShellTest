@@ -32,9 +32,11 @@
     <ResolvedResourceDirectory>/Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest.Android/obj/Debug/lp/17/jl/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest.Android/obj/Debug/lp/18/jl/res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>/Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest.Android/obj/Debug/lp/20/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest.Android/obj/Debug/lp/23/jl/res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj/Debug/lp/15/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/lp/23/jl/assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
@@ -47,5 +49,6 @@
     <ResolvedResourceDirectoryStamp>/Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest.Android/obj/Debug/lp/17.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest.Android/obj/Debug/lp/18.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>/Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest.Android/obj/Debug/lp/20.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest.Android/obj/Debug/lp/23.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
