@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{89AC51CA-BF28-4DFF-8E1D-2C42A01294A2}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShellTest/App.xaml.cs">
+    <Files>
+      <File FileName="ShellTest/App.xaml" Line="5" Column="15" />
+      <File FileName="ShellTest/Pages/FirstPage.xaml" Line="4" Column="33" />
+      <File FileName="ShellTest/Pages/FirstPage.xaml.cs" Line="12" Column="1" />
+      <File FileName="ShellTest/MainPage.xaml" Line="13" Column="17" />
+      <File FileName="ShellTest/App.xaml.cs" Line="14" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShellTest.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ShellTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EF19A64D-E664-4C2D-AC5A-1A9A99762943" />
+</Properties>
