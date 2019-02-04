@@ -5,6 +5,7 @@
 /Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
 /Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest/obj/Debug/netstandard2.0/Pages/AboutPage.xaml.g.cs
 /Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest/obj/Debug/netstandard2.0/Pages/FirstPage.xaml.g.cs
+/Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest/obj/Debug/netstandard2.0/Pages/Templates/ControlTemplates.xaml.g.cs
 /Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest/obj/Debug/netstandard2.0/Pages/Templates/FlyoutHeader.xaml.g.cs
 /Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest/obj/Debug/netstandard2.0/Styles/Colors.xaml.g.cs
 /Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest/obj/Debug/netstandard2.0/Styles/FontStyles.xaml.g.cs
@@ -17,4 +18,3 @@
 /Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest/obj/Debug/netstandard2.0/ShellTest.dll
 /Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest/obj/Debug/netstandard2.0/ShellTest.pdb
-/Users/divi/Documents/Github/ShellTest/ShellTest/ShellTest/obj/Debug/netstandard2.0/Pages/Templates/ControlTemplates.xaml.g.cs
