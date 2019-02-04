@@ -1,4 +1,5 @@
 ﻿using System;
+using ShellTest.Pages;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,9 +11,14 @@ namespace ShellTest
         public App()
         {
             InitializeComponent();
-
+            RegisterRoutes();
             //MainPage = new NavigationPage(new MainPage());
             MainPage = new MainPage();
+        }
+
+        private void RegisterRoutes()
+        {
+            Routing.RegisterRoute("aboutpage", typeof(AboutPage));
         }
 
         protected override void OnStart()

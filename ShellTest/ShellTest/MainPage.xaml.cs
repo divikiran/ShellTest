@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using ShellTest.ViewModels;
 using Xamarin.Forms;
 
 namespace ShellTest
@@ -10,7 +10,7 @@ namespace ShellTest
         public MainPage()
         {
             InitializeComponent();
-
+            BindingContext = new MainViewModel();
         }
     }
 }

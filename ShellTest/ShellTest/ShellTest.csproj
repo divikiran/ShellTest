@@ -15,5 +15,10 @@
   <ItemGroup>
     <Folder Include="Pages\" />
     <Folder Include="ViewModels\" />
+    <Folder Include="Pages\Templates\" />
+    <Folder Include="Styles\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Pages\Templates\FlyoutTemplate.xaml.cs" />
   </ItemGroup>
 </Project>

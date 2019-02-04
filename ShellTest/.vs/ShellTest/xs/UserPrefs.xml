@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{89AC51CA-BF28-4DFF-8E1D-2C42A01294A2}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ShellTest/Pages/FirstPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShellTest.iOS/Info.plist">
     <Files>
-      <File FileName="ShellTest/App.xaml" Line="5" Column="15" />
-      <File FileName="ShellTest/Pages/FirstPage.xaml" Line="12" Column="23" />
-      <File FileName="ShellTest/Pages/FirstPage.xaml.cs" Line="17" Column="1" />
-      <File FileName="ShellTest/MainPage.xaml" Line="12" Column="36" />
-      <File FileName="ShellTest/App.xaml.cs" Line="15" Column="12" />
-      <File FileName="ShellTest/MainPage.xaml.cs" Line="13" Column="1" />
-      <File FileName="ShellTest/ViewModels/FirstPageModel.cs" Line="9" Column="23" />
+      <File FileName="ShellTest/Styles/FontStyles.xaml" Line="5" Column="32" />
+      <File FileName="ShellTest/Styles/Styles.xaml" Line="11" Column="47" />
+      <File FileName="ShellTest/App.xaml" Line="11" Column="17" />
+      <File FileName="ShellTest/Pages/FirstPage.xaml" Line="5" Column="74" />
+      <File FileName="ShellTest/Pages/Templates/ControlTemplates.xaml" Line="10" Column="23" />
+      <File FileName="ShellTest/Pages/Templates/ControlTemplates.xaml.cs" Line="6" Column="36" />
+      <File FileName="ShellTest/Styles/FontStyles.xaml.cs" Line="8" Column="36" />
+      <File FileName="ShellTest.iOS/Info.plist" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
