@@ -1,14 +1,21 @@
 ﻿<Properties StartupConfiguration="{89AC51CA-BF28-4DFF-8E1D-2C42A01294A2}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ShellTest.iOS/Info.plist">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShellTest/Pages/Templates/FlyoutHeader.xaml">
     <Files>
-      <File FileName="ShellTest/Styles/FontStyles.xaml" Line="5" Column="32" />
-      <File FileName="ShellTest/Styles/Styles.xaml" Line="11" Column="47" />
-      <File FileName="ShellTest/App.xaml" Line="11" Column="17" />
-      <File FileName="ShellTest/Pages/FirstPage.xaml" Line="5" Column="74" />
-      <File FileName="ShellTest/Pages/Templates/ControlTemplates.xaml" Line="10" Column="23" />
-      <File FileName="ShellTest/Pages/Templates/ControlTemplates.xaml.cs" Line="6" Column="36" />
-      <File FileName="ShellTest/Styles/FontStyles.xaml.cs" Line="8" Column="36" />
-      <File FileName="ShellTest.iOS/Info.plist" />
+      <File FileName="ShellTest/AppShell.xaml" Line="27" Column="38" />
+      <File FileName="ShellTest/Pages/Templates/ControlTemplates.xaml" Line="3" Column="54" />
+      <File FileName="ShellTest/App.xaml" Line="7" Column="1" />
+      <File FileName="ShellTest/Styles/GlobalStyles.xaml" Line="31" Column="22" />
+      <File FileName="ShellTest/Styles/Colors.xaml" Line="6" Column="22" />
+      <File FileName="ShellTest/Styles/FontStyles.xaml" Line="39" Column="22" />
+      <File FileName="ShellTest/Styles/Sizes.xaml" Line="18" Column="22" />
+      <File FileName="ShellTest/Styles/Styles.xaml" Line="43" Column="22" />
+      <File FileName="ShellTest/Pages/Templates/ControlTemplates.xaml.cs" Line="1" Column="1" />
+      <File FileName="ShellTest/AppShell.xaml.cs" Line="12" Column="13" />
+      <File FileName="ShellTest/Pages/FirstPage.xaml" Line="17" Column="15" />
+      <File FileName="ShellTest/App.xaml.cs" Line="14" Column="21" />
+      <File FileName="ShellTest.iOS/AppDelegate.cs" Line="25" Column="13" />
+      <File FileName="ShellTest/Pages/AboutPage.xaml" Line="7" Column="1" />
+      <File FileName="ShellTest/Pages/Templates/FlyoutHeader.xaml" Line="32" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

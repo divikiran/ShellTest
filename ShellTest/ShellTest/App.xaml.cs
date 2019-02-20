@@ -13,7 +13,7 @@ namespace ShellTest
             InitializeComponent();
             RegisterRoutes();
             //MainPage = new NavigationPage(new MainPage());
-            MainPage = new MainPage();
+            MainPage = new AppShell();
         }
 
         private void RegisterRoutes()

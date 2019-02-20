@@ -11,11 +11,9 @@ namespace ShellTest.ViewModels
             {
                 return _title;
             }
-
             set
             {
-                _title = value;
-                NotifyPropertyChanged(nameof(Title));
+                SetAndRaisePropertyChanged(ref _title, value, nameof(Title));
             }
         }
         public MainViewModel()

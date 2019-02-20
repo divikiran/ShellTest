@@ -26,5 +26,10 @@ namespace ShellTest.Pages
             SetBinding(Shell.NavBarIsVisibleProperty, new Binding(nameof(VM.ShowNavBar)));
 
         }
+
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+        }
     }
 }

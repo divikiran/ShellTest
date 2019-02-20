@@ -12,11 +12,13 @@ namespace ShellTest.ViewModels
 
         public ICommand GoToAboutCommandAsync
         {
-            get { return _goToAboutCommandAsync; }
+            get
+            {
+                return _goToAboutCommandAsync;
+            }
             set
             {
-                _goToAboutCommandAsync = value;
-                NotifyPropertyChanged(nameof(GoToAboutCommandAsync));
+                SetAndRaisePropertyChanged(ref _goToAboutCommandAsync, value, nameof(GoToAboutCommandAsync));
             }
         }
 
